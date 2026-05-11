@@ -565,7 +565,9 @@ footer .link-body-emphasis {
     }
 
     .brand{
-        width: 90px;
+        margin-top: -20px;
+        padding-top: 0px;
+        width: 110px;
     }
 
 }
@@ -581,7 +583,9 @@ footer .link-body-emphasis {
     }
 
     .brand{
-        width: 90px;
+        margin-top: -20px;
+        padding-top: 0px;
+        width: 100px;
     }
 
     .language{
